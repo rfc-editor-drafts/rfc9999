@@ -10,7 +10,7 @@ ISSN: 2070-1721                                              Independent
                                                                   Linaro
                                                            H. Tschofenig
                                                                 UniBw M.
-                                                               June 2026
+                                                               July 2026
 
 
  Remote ATtestation procedureS (RATS) Conceptual Message Wrapper (CMW)
